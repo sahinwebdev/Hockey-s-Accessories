@@ -6,3 +6,10 @@ module.exports = {
   },
   plugins: [],
 }
+module.exports = {
+
+    plugins: [
+        require('flowbite/plugin')
+    ]
+
+}
